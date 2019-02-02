@@ -10,7 +10,7 @@ void draw () {
   background(0);
   fill(255);
   ellipse(width/2 + x, height/2, 50, 50);
-  x=x+1;
+  x=x+5;
   
   if ( x > width) {
     x = 0;
