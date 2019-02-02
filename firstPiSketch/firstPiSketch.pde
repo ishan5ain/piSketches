@@ -3,8 +3,8 @@ int x;
 TripSph ts1;
 
 void setup() {
-  size(300, 300);
-  //fullScreen();
+  //size(300, 300);
+  fullScreen();
   x = 0;
   ts1 = new TripSph();
 }
